@@ -1,2 +1,7 @@
-Device Changes:
-- Test
+====================
+    06-08-2025
+====================
+
+- Derpfest QPR2 (Based on Lineage)
+- Fixed torch toggling bug
+- Initial OTA
